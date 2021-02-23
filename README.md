@@ -5,3 +5,4 @@ The following will not include support for the following features and will have 
  - Holding reciepts.
  - Saved customers.
  - Having more than 5 users.
+----
