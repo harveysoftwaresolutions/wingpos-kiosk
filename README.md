@@ -1,2 +1,2 @@
-# wingpos-kiosk-community
+# wingpos-kiosk
 A basic kiosk front end for wingpos-core. Does not include support for drawers or any other serial devices.
